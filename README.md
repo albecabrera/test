@@ -1,25 +1,9 @@
 # test
-# test
 
-## Description
+## Commandos github
 
-## Installation
+`git add .` 
 
-## Usage
+`git commit -m "README actualizado"`
 
-## Contributing
-
-## License
-
-## Project status
-
-## Author
-
-## Acknowledgements
-
-## Contact
-
-## Project link
-
-## Project dependencies
-
+`git push`
